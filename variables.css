@@ -28,9 +28,9 @@
   --display-image: block;
 
   /** surface */
-  --surface-maxWidth: 1280px;
-  --surface-shadow: 12px 12px 10px #12252E;
-  --surface-borderRadius: 4px;
+  --surface-maxWidth: 1450px;
+  --surface-shadow: 12px 12px 15px #12252E;
+  --surface-borderRadius: 10px;
 
   /** spacing */
   --space-smallest: 0.125rem;
